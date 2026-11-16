@@ -1,0 +1,34 @@
+# Secretos
+correo_config.json
+.env
+*.key
+*.pem
+
+# Datos de usuarios y fotos
+inspecciones.db
+*.db
+*.sqlite
+imagenes_registradas/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+.idea/
+
+# Respaldos
+*.bak
+*.bak_*
+
+# Flutter
+.dart_tool/
+build/
+
+# Entrenamiento
+runs/
+Datasetmp/
+dataset/
+inaturalist/
+*.zip
